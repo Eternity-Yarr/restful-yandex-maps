@@ -2,7 +2,7 @@ package org.lutra.yandexmaps.model;
 
 public class Route
 {
-	String type;
-	RouteProperties properties;
+	public String type;
+	public RouteProperties properties;
 	//FIXME: don't care for other data
 }

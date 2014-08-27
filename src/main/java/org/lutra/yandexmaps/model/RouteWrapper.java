@@ -2,7 +2,7 @@ package org.lutra.yandexmaps.model;
 
 public class RouteWrapper
 {
-	Route response;
+	public Route response;
 }
 /*TODO:DELETE ME
 {

@@ -7,5 +7,5 @@ import java.util.List;
 public class RouteProperties
 {
 	RouteMetaData RouterRouteMetaData;
-	List<List<Coords>> boundedBy;
+	//List<List<Coords>> boundedBy;
 }
